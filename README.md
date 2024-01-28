@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Patrick Grilanda 🙋🏽‍♂️
 
-Futuro Engenheiro da computação e entusiasta de tecnologia.
+#### Futuro Engenheiro da computação, entusiasta de tecnologia.
 
 ## Redes Sociais
 
@@ -9,11 +9,14 @@ Futuro Engenheiro da computação e entusiasta de tecnologia.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/patrick_grilanda/)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickGrilanda&theme=dracula)
 [![Patrick GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickGrilanda&show_icons=true&theme=dracula)](https://github.com/PatrickGrilanda/github-readme-stats)
+
 
 ## Hard Skills
 
 ### OS
+<div style="display: inline_block">
 <div style="display: inline_block">
     <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
     <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
@@ -52,6 +55,7 @@ Futuro Engenheiro da computação e entusiasta de tecnologia.
 <img align="center" alt="json web tokens" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
 </div>
 
+<>
 ## Soft Skills
 
 - ### Proativo
