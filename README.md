@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Patrick Grilanda 🙋🏽‍♂️
 
-Futuro Engenheiro da computação, entusiasta de tecnologia.
+Futuro Engenheiro da computação e entusiasta de tecnologia.
 
 ## Redes Sociais
 
