@@ -2,7 +2,7 @@
 
 #### Futuro Engenheiro da computação, entusiasta de tecnologia.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickGrilanda&theme=dracula)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickGrilanda&theme=dracula)
 [![Patrick GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickGrilanda&show_icons=true&theme=dracula)](https://github.com/PatrickGrilanda/github-readme-stats)
 
 
