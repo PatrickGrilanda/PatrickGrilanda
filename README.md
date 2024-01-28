@@ -48,7 +48,6 @@
 <img align="center" alt="json web tokens" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
 </div>
 
-<>
 ## Soft Skills
 
 - ### Proativo
