@@ -2,13 +2,6 @@
 
 #### Futuro Engenheiro da computação, entusiasta de tecnologia.
 
-## Redes Sociais
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/patrick.grilanda/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-bonaretti-grilanda/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/patrick_grilanda/)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickGrilanda&theme=dracula)
 [![Patrick GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickGrilanda&show_icons=true&theme=dracula)](https://github.com/PatrickGrilanda/github-readme-stats)
 
@@ -62,3 +55,10 @@
 - ### Resolução de Problemas
 - ### Autonomia
 - ### Autoaprendizado e Curiosidade
+
+## Redes Sociais
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/patrick.grilanda/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-bonaretti-grilanda/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/patrick_grilanda/)
+
